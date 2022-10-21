@@ -115,7 +115,7 @@ int main(){
         }
         //Jika dipilih selain angka 1,2,3
         //Output akan menampilkan "Pilihannya hanya 1,2 dan 3!!"
-        else if (pilihan<1||pilihan>3 and antiCopy2==2){
+        else if (pilihan2<1||pilihan>3 and antiCopy2==2){
             cout<<"Pilihannya hanya 1,2 dan 3!!";
         }
     }
